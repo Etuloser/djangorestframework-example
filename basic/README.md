@@ -15,4 +15,5 @@ python manage.py runserver
 ruff
 drf-spectacular[sidecar]
 django-environ
+pytest-django
 ```
