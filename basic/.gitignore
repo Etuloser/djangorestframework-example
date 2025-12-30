@@ -9,6 +9,7 @@ wheels/
 static
 media
 db.sqlite3
+my_fixture_data.json
 
 # Virtual environments
 .venv

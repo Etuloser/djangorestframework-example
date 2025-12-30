@@ -14,4 +14,5 @@ python manage.py runserver
 ```toml
 ruff
 drf-spectacular[sidecar]
+django-environ
 ```
