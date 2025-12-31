@@ -4,7 +4,7 @@
 
 ```bash
 uv sync
-python manage.py init_db
+python manage.py init_db basic
 python manage.py migrate
 python manage.py createsuperuser --email admin@example.com --username admin
 python manage.py runserver
